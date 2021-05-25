@@ -27,7 +27,7 @@ $data = explode("/", $s);
 $consumer_key        = '6HEM5SGXF9oROs6Pun1oV3Zjw';
 $consumer_secret     = '8700IrszDkN1lLIHwEPGjgOpyIkoT6eey2dnc7OUYqrUbSUN4S';
 $access_token        = '1395423506557390853-eUjthnOmykXrV4YStAkYlDCw7Krdih';
-$access_token_secret = 'hukdZK1WNiK39ZvFyOjKTGIn4h4MLUA7sgy4yXsB7q3AO';
+$access_token_secret = 'lVa85gj5oQToRlfUZvrxINyb9odRmEQxUXCKRMXtAvx19';
 
 $conn = new TwitterOAuth($consumer_key, $consumer_secret, $access_token, $access_token_secret);
 $conn->get('account/verify_credentials');
