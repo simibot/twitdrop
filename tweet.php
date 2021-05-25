@@ -24,8 +24,8 @@ $data = explode("/", $s);
 // Get API key & secret from https://developer.twitter.com
 // Make sure your APP Token set "write" permissions
 
-$consumer_key        = '6HEM5SGXF9oROs6Pun1oV3Zjw';
-$consumer_secret     = '8700IrszDkN1lLIHwEPGjgOpyIkoT6eey2dnc7OUYqrUbSUN4S';
+$consumer_key        = '6Z4oz00CnC0Qc4toxSweplYuq';
+$consumer_secret     = 'YemtXaGKT4e68JoFVc5yucAAVMkg0LCBSHAwlCaTUJae0WQLRt';
 $access_token        = '1395423506557390853-eUjthnOmykXrV4YStAkYlDCw7Krdih';
 $access_token_secret = 'lVa85gj5oQToRlfUZvrxINyb9odRmEQxUXCKRMXtAvx19';
 
