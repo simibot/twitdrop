@@ -24,10 +24,10 @@ $data = explode("/", $s);
 // Get API key & secret from https://developer.twitter.com
 // Make sure your APP Token set "write" permissions
 
-$consumer_key        = 'tYS0n9UyI2a7qxyvg3OTNMhpE';
-$consumer_secret     = 'eZka9m9suJiNgzBrauA5SkhYFnnCZbnrBQbeRxkQQXn0wRCX3C';
-$access_token        = 'k1baxh31Fzk27XzrsSTRNxJL0LE9eo';
-$access_token_secret = 'L3sJNK0t0gH69umA8kAY7bBaiXtQHbGoNgn9miK8jQbB2';
+$consumer_key        = 'SIfJRvM3G9vmKhFTAmGzhGNQi';
+$consumer_secret     = 'ax0h3mPxsjS4YOCMouToQpwWPHRTDdkFG8Mxw6GHXJW1IUWKHr';
+$access_token        = '1395423506557390853-zEGVjWTcnTlU0G3x5WxoRpesQKcNws';
+$access_token_secret = '7F7U2a7CiPJXutqbTMMblksJIb9FhnRkCVMzzBtBttXod';
 
 $conn = new TwitterOAuth($consumer_key, $consumer_secret, $access_token, $access_token_secret);
 $conn->get('account/verify_credentials');
