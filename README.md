@@ -2,8 +2,7 @@
 
 ## Please follow given steps to create a Twitter account and get your KEYS and TOKENs
 
-
-1. Please verify your account by doing the first tweet from your account. Please share your message on joiNow it's a time for creating a twitter developer account. Please sign in to your twitter account and go to step 4
+1. Sign in to your account or register if u new account Please verify your account by doing the first tweet from your account. 
 
 2. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
 
