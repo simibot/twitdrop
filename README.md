@@ -1,21 +1,18 @@
-# twitdrop
-Airdrop Twitter Task Helper (Follow, Like, Retweet Quote)
+
+
 ## Please follow given steps to create a Twitter account and get your KEYS and TOKENs
 
-1. Create a Twitter Account from your University email address (e.g. yourid@essex.ac.uk). For more details, please visit https://help.twitter.com/en/using-twitter/create-twitter-account
 
-2. Please verify your account by doing the first tweet from your account. Please share your message on joining University of Essex and use hashtag #UoE2020LovelaceChallengeWeek 
+1. Please verify your account by doing the first tweet from your account. Please share your message on joiNow it's a time for creating a twitter developer account. Please sign in to your twitter account and go to step 4
 
-3. Now it's a time for creating a twitter developer account. Please sign in to your twitter account and go to step 4
+2. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
 
-4. Go to https://developer.twitter.com/en/apps then see on the top right and click on Create an app and it will say you 'Please apply for a Twitter developer account', please click on Apply. 
+3. Now it will ask you "What is your primary reason for using Twitter developer tools?". Please choose "Student" option.
 
-5. Now it will ask you "What is your primary reason for using Twitter developer tools?". Please choose "Student" option.
-
-6. It will ask you to verify your self by saying "This is you, right?" and please add a valid phone number. It will ask you a few other questions as well such as What country do you live in?
+4. It will ask you to verify your self by saying "This is you, right?" and please add a valid phone number. It will ask you a few other questions as well such as What country do you live in?
 What would you like us to call you?. Please fill this all and click next. 
 
-7. On the next page it will ask you "How will you use the Twitter API or Twitter data?" There will be several questions and each question has a word limit, so please try to answer correctly that you are going to use this app for doing sentiment analysis project during 1st year of your bachelor's degree. 
+5. On the next page it will ask you "How will you use the Twitter API or Twitter data?" There will be several questions and each question has a word limit, so please try to answer correctly that you are going to use this app for doing sentiment analysis project during 1st year of your bachelor's degree. 
 
 My answers as follows:
 
